@@ -1,0 +1,13 @@
+{
+  "name": "typesript-starter",
+  "description": "Simple starter template for typescript",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "handlebars": "^4.0.10",
+    "jquery": "^3.2.1",
+    "requirejs": "^2.3.4",
+    "axios": "^0.16.2"
+  }
+}

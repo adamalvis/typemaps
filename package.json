@@ -1,0 +1,28 @@
+{
+  "name": "ts-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jquery": "^2.0.47",
+    "grunt": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-requirejs": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-exec": "^3.0.0",
+    "grunt-open": "^0.2.3",
+    "grunt-php": "^1.5.1",
+    "grunt-sass": "^2.0.0",
+    "text": "github:requirejs/text"
+  },
+  "dependencies": {
+    "@types/googlemaps": "^3.26.17",
+    "@types/handlebars": "^4.0.35",
+    "axios": "^0.16.2"
+  }
+}
